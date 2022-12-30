@@ -6,13 +6,15 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>合同会社のびのび</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="合同会社のびのび" />
-        <h2>事業概要</h2>
+        <p className="description">
+          事業概要
+        </p>
         <p className="description">
           システム及びアプリケーションの開発を行っています。
           お問い合わせの際は下記のメールアドレスにご連絡をお願いいたします。
