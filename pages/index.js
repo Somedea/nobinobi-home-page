@@ -18,7 +18,7 @@ export default function Home() {
           システム及びアプリケーションの開発を行っています。
         </p>
 
-        <Summary summary="お問合せ" />
+        <Summary summary="お問い合わせ" />
         <p className="description">
           お問い合わせの際は下記のメールアドレスにご連絡をお願いいたします。
           <br/>
