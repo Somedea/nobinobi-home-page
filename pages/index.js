@@ -16,7 +16,10 @@ export default function Home() {
         <Summary summary="事業概要" />
         <p className="description">
           システム及びアプリケーションの開発を行っています。
-          <br/>
+        </p>
+
+        <Summary summary="お問合せ" />
+        <p className="description">
           お問い合わせの際は下記のメールアドレスにご連絡をお願いいたします。
           <br/>
           pswty180@gmail.com
