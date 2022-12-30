@@ -11,9 +11,13 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="合同会社のびのび" />
+        <h2>事業概要</h2>
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          システム及びアプリケーションの開発を行っています。
+          お問い合わせの際は下記のメールアドレスにご連絡をお願いいたします。
+          <br/>
+          pswty180@gmail.com
         </p>
       </main>
 
