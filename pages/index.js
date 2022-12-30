@@ -6,18 +6,18 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Nobinobi LLC.</title>
+        <title>合同会社のびのび</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to Nobinobi!" />
+        <Header title="合同会社のびのび" />
         <p className="description">
-          Business summary
+          事業概要
         </p>
         <p className="description">
-          We develop systems and applications.
-          For inquiries, please contact the following email address.
+          システム及びアプリケーションの開発を行っています。
+          お問い合わせの際は下記のメールアドレスにご連絡をお願いいたします。
           <br/>
           pswty180@gmail.com
         </p>
