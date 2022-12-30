@@ -12,9 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="合同会社のびのび" />
-        <p className="description">
-          事業概要
-        </p>
+        <Summary summary="事業概要" />
         <p className="description">
           システム及びアプリケーションの開発を行っています。
           お問い合わせの際は下記のメールアドレスにご連絡をお願いいたします。
